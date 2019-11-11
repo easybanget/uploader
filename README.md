@@ -1,2 +1,5 @@
-# uploader
-GHz7 HIDDEN UPLOADER
+# HIDDEN UPLOADER BY GHz7
+How to use?
+https://site.com/uploader.php?q=heker
+
+
