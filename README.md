@@ -2,4 +2,4 @@
 How to use?
 https://site.com/uploader.php?q=heker
 
-
+heker are the default password
